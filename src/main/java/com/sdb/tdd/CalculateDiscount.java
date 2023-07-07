@@ -6,7 +6,7 @@ public class CalculateDiscount {
 		double amtAfterDis;
 		double priceForOneBook = 50.00;
 		amtAfterDis = priceForOneBook;
-		return amtAfterDis = 50.00;
+		return amtAfterDis;
 	}
 
 }
